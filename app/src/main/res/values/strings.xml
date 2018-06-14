@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Engine Displacement Converter</string>
+    <string name="CC_entering">Enter cc displacement</string>
+    <string name="ConvertingLiters">Convert</string>
+    <string name="labelcc">cc</string>
+    <string name="labell">L</string>
+    <string name="cc_L">cc Converter</string>
+    <string name="Convert_from_Liters">Convert from Liters</string>
+    <string name="Convert_from_CID">Convert from CID</string>
+    <string name="L_entering">Enter liter capacity</string>
+    <string name="L_converter">Liters Converter</string>
+    <string name="Convert_from_CC">Convert from CC</string>
+    <string name="CID_Converter">CID Converter</string>
+    <string name="cid_entering">Enter CID displacement</string>
+    <string name="labelcid">CID</string>
+
+</resources>
