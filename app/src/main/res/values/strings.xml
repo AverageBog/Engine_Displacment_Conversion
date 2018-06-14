@@ -13,5 +13,6 @@
     <string name="CID_Converter">CID Converter</string>
     <string name="cid_entering">Enter CID displacement</string>
     <string name="labelcid">CID</string>
+    <string name="Liters">Liters</string>
 
 </resources>
